@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: web/package-lock.json
+  checksum: 9a2eab54ebc2b8a9fa0b436f0018ad10991c1ac2be73f734c9d79f481fd9c4ad
+- filename: web/src/components/devices/Devices.js
+  checksum: 30654420fd3ee2ebdf56410c98b264c4bc2c8a8f13196486a50a54000e5a5db8
+- filename: web/package-lock.json
+  checksum: 9a2eab54ebc2b8a9fa0b436f0018ad10991c1ac2be73f734c9d79f481fd9c4ad
+- filename: web/package-lock.json
+  checksum: 9a2eab54ebc2b8a9fa0b436f0018ad10991c1ac2be73f734c9d79f481fd9c4ad
+
